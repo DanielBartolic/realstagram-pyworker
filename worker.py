@@ -57,7 +57,7 @@ def benchmark_generator() -> dict:
     return {
         "gender": "women",
         "controlnet": False,
-        "image_url": "https://storage.realstagram.ai/test/benchmark_input.jpg",
+        "image_url": "https://storage.realstagram.ai/test/women_test.png",
         "width": 1152,
         "height": 1536,
         "steps": 8,
